@@ -46,7 +46,7 @@ python3 main.py \
 | `--output_mapped`      | `str`  | ✅ Yes                      | Path to save the mapped 1280-dimensional features (NumPy format). |
 | `--output_predictions` | `str`  | ❌ Optional                 | Path to save classification results (CSV format). Required if `--make_prediction` is used. |
 | `--batch_size`         | `int`  | ❌ Optional (default: `32`) | Batch size used during feature extraction.                   |
-| `--make_prediction`    | `flag` | ❌ Optional                 | If set, enables prediction with the pre-trained MLP model and saves outputs to `--output_predictions`. |
+| `--make_prediction`    | `flag` | ❌ Optional                 | If set, enables prediction with the clasiifier head and saves outputs to `--output_predictions`. |
 
 ------
 
