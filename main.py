@@ -89,7 +89,7 @@ def main(args):
         student_hidden_size=base_student_model.config.hidden_size,
         teacher_hidden_size=1280
     )
-    student_model.load_state_dict(torch.load("./student_model_05/student_model_with_mapping.pt", map_location="cpu"))
+    student_model.load_state_dict(torch.load("./student_model/student_model_with_mapping.pt", map_location="cpu"))
     student_model.eval()
 
     # 预处理数据
@@ -111,7 +111,7 @@ def main(args):
 
         # 加载 MLP 模型
         mlp_model = MLP(input_size=1280, hidden_size=512, num_classes=2)
-        mlp_model.load_state_dict(torch.load("./student_model_05/Classification_Head.pth", map_location="cpu"))
+        mlp_model.load_state_dict(torch.load("./student_model/Classification_Head.pth", map_location="cpu"))
         mlp_model.eval()
 
         mapped_features_tensor = torch.tensor(mapped_features, dtype=torch.float32)
