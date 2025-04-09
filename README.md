@@ -12,7 +12,8 @@
    The model demonstrates strong **interpretability**, with attention regions aligning well with both **experimentally validated** and **computationally predicted** functional sites.
 - 🌐 **Web Server Available**:
    A publicly accessible ****[web server (Click Here)](https://awi.cuhk.edu.cn/~biosequence/MSKDNP/index.php)**** incorporating protein language model knowledge is provided for broad neuropeptide **research and application use**.
-
+  
+<span style="color:red">## ⚠️ Server Error Notification</span>
 ****An unexpected error has occurred on the main server. The web service is currently unavailable, and we are working hard to fix it.****
 
 In the meantime, we have set up a **temporary web service** for you to use:
