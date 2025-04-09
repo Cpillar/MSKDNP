@@ -1,7 +1,7 @@
 # MSKDNP
 
   
-## ⚠️ Server Error Notification
+## ⚠️ Server Error Notification （Updated on 4/09）
 
 ****An unexpected error has occurred on the main server. The web service is currently unavailable, and we are working hard to fix it.****
 
