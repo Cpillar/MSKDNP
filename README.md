@@ -1,17 +1,5 @@
 # MSKDNP
 
-
-
-## 📌 Highlights
-
-- 🔬 **Multi-Stage Knowledge Distillation**:
-   A novel **multi-stage distillation** strategy is used to transfer classification knowledge from a high-capacity **teacher model** to a compact **student model**, achieving **over 98% parameter reduction** while preserving performance.
-- ⚡ **Efficient Neuropeptide Prediction**:
-   Designed for **low-resource environments**, enabling high-speed inference with **minimal computational cost**.
-- 🧠 **Interpretability Aligned with Biology**:
-   The model demonstrates strong **interpretability**, with attention regions aligning well with both **experimentally validated** and **computationally predicted** functional sites.
-- 🌐 **Web Server Available**:
-   A publicly accessible ****[web server (Click Here)](https://awi.cuhk.edu.cn/~biosequence/MSKDNP/index.php)**** incorporating protein language model knowledge is provided for broad neuropeptide **research and application use**.
   
 ## ⚠️ Server Error Notification
 
@@ -25,6 +13,17 @@ We sincerely apologize for the inconvenience caused. Please note that this tempo
 
 Thank you for your understanding and patience.
 
+
+## 📌 Highlights
+
+- 🔬 **Multi-Stage Knowledge Distillation**:
+   A novel **multi-stage distillation** strategy is used to transfer classification knowledge from a high-capacity **teacher model** to a compact **student model**, achieving **over 98% parameter reduction** while preserving performance.
+- ⚡ **Efficient Neuropeptide Prediction**:
+   Designed for **low-resource environments**, enabling high-speed inference with **minimal computational cost**.
+- 🧠 **Interpretability Aligned with Biology**:
+   The model demonstrates strong **interpretability**, with attention regions aligning well with both **experimentally validated** and **computationally predicted** functional sites.
+- 🌐 **Web Server Available**:
+   A publicly accessible ****[web server (Click Here)](https://awi.cuhk.edu.cn/~biosequence/MSKDNP/index.php)**** incorporating protein language model knowledge is provided for broad neuropeptide **research and application use**.
 
 
 
