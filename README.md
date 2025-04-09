@@ -3,15 +3,16 @@
   
 ## ⚠️ Server Error Notification （Updated on 4/09）
 
-****An unexpected error has occurred on the main server. The web service is currently unavailable, and we are working hard to fix it.****
+****❗An unexpected error has occurred on the main server. The web service is currently unavailable, and we are working hard to fix it.****
 
 In the meantime, we have set up a **temporary web service** for you to use:
 
 👉 [http://8.217.42.111:5000/](http://8.217.42.111:5000/)
 
-We sincerely apologize for the inconvenience caused. Please note that this temporary site **does not yet include CSS styling**, but all core features are **fully functional**. 
+❗We sincerely apologize for the inconvenience caused. 
+❗Please note that this temporary site **does not yet include CSS styling**, but all core features are **fully functional**. 
 
-Thank you for your understanding and patience.
+🙏Thank you for your understanding and patience.
 
 
 ## 📌 Highlights
