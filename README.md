@@ -1,4 +1,13 @@
 # MSKDNP
+## ⚠️ Server Status Notice（Updated on 4/16）
+
+The main server has been restored, but it may still experience occasional instability.  
+If you encounter any issues accessing the service, you can continue to use the temporary server at:
+
+👉 [http://8.217.42.111:5000/](http://8.217.42.111:5000/)
+
+We apologize for any inconvenience this may cause and appreciate your understanding.
+
 
   
 ## ⚠️ Server Error Notification （Updated on 4/09）
@@ -14,6 +23,9 @@ In the meantime, we have set up a **temporary web service** for you to use:
 ❗Please note that this temporary site **does not yet include CSS styling**, but all core features are **fully functional**. 
 
 🙏Thank you for your understanding and patience.
+
+✅ **Update:** The main server has been restored. This notice is now outdated, but the temporary server remains available as a backup option in case of future instability.
+
 
 
 ## 📌 Highlights
