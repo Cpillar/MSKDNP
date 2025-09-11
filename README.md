@@ -1,5 +1,5 @@
 # MSKDNP
-## The article has been accepted and the training and distillation codes have been uploaded to GitHub.
+## The article has been published and the training and distillation codes have been uploaded to GitHub.
 Please cite：https://academic.oup.com/bib/article/26/5/bbaf466/8250822
 
 ## ⚠️ Server Status Notice（Updated on 4/16）
