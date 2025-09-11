@@ -2,7 +2,7 @@
 ## The article has been published and the training and distillation codes have been uploaded to GitHub.
 Please cite：https://academic.oup.com/bib/article/26/5/bbaf466/8250822
 
-## ⚠️ Server Status Notice（Updated on 4/16）
+## Server Status Notice（Updated on 4/16）
 
 The main server has been restored, but it may still experience occasional instability.  
 If you encounter any issues accessing the service, you can continue to use the temporary server at:
@@ -13,23 +13,6 @@ We apologize for any inconvenience this may cause and appreciate your understand
 
 
   
-## ⚠️ Server Error Notification （Updated on 4/09）
-
-****❗An unexpected error has occurred on the main server. The web service is currently unavailable, and we are working hard to fix it.****
-
-In the meantime, we have set up a **temporary web service** for you to use:
-
-👉 [http://8.217.42.111:5000/](http://8.217.42.111:5000/)
-
-❗We sincerely apologize for the inconvenience caused. 
-
-❗Please note that this temporary site **does not yet include CSS styling**, but all core features are **fully functional**. 
-
-🙏Thank you for your understanding and patience.
-
-✅ **Update:** The main server has been restored. This notice is now outdated, but the temporary server remains available as a backup option in case of future instability.
-
-
 
 ## 📌 Highlights
 
