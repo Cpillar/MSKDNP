@@ -4,7 +4,7 @@
 The main server has been restored, but it may still experience occasional instability.  
 If you encounter any issues accessing the service, you can continue to use the temporary server at:
 
-👉 [http://8.217.42.111:5000/](http://8.217.42.111:5000/)
+👉 https://ycclab.cuhk.edu.cn/mskdnp/
 
 We apologize for any inconvenience this may cause and appreciate your understanding.
 
